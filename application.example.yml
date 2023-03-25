@@ -1,0 +1,7 @@
+mysql_host:
+mysql_database:
+mysql_username:
+mysql_password:
+telnet_ip:
+telnet_port:
+batch_size:
